@@ -1,2 +1,2 @@
 # BLACKJACK
- Simplefied BLACKJACK game ith limited rules
+ Simplified BLACKJACK game with limited rules
